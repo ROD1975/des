@@ -214,3 +214,11 @@ footer > p {
    line-height: 90px;
    font-size: 15px; 
 }
+
+.modal-body-kb .modal-title-kb {
+    color: black;
+}
+
+.modal-content {
+    background-color: #a80532;
+}
